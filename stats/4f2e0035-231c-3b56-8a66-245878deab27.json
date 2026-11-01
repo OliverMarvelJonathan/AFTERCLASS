@@ -1,0 +1,36 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:ender_chest": 1,
+      "minecraft:yellow_shulker_box": 2,
+      "minecraft:blue_shulker_box": 1
+    },
+    "minecraft:used": {
+      "minecraft:yellow_shulker_box": 2,
+      "minecraft:ender_chest": 1,
+      "minecraft:netherite_pickaxe": 4,
+      "minecraft:blue_shulker_box": 1
+    },
+    "minecraft:mined": {
+      "minecraft:ender_chest": 1,
+      "minecraft:blue_shulker_box": 1,
+      "minecraft:yellow_shulker_box": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 16110,
+      "minecraft:walk_one_cm": 3216,
+      "minecraft:leave_game": 6,
+      "minecraft:play_time": 16110,
+      "minecraft:open_shulker_box": 7,
+      "minecraft:jump": 6,
+      "minecraft:time_since_death": 16110,
+      "minecraft:open_enderchest": 8,
+      "minecraft:open_chest": 61,
+      "minecraft:total_world_time": 16110,
+      "minecraft:fly_one_cm": 96288,
+      "minecraft:walk_on_water_one_cm": 963,
+      "minecraft:sneak_time": 97
+    }
+  },
+  "DataVersion": 4671
+}
